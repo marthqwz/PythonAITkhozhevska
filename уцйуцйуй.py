@@ -19,35 +19,35 @@
 # print(w.satiety)
 # print(w.height)
 
-class Grandparent:
-    height = 170
-    satiety = 100
-    age = 60
-
-class Parent(Grandparent):
-    age = 40
-
-class Child(Parent):
-    height = 50
-    age = 1
-    def __init__(self):
-        print(f"height = {self.height}")
-        print(f"age = {self.age}")
-        print(f"satiety = {self.satiety}")
-
-nich = Child()
-
-
-class Hello:
-    def __init__(self):
-        print('Hello')
-
-class HelloWorld(Hello):
-    def __init__(self):
-        super().__init__()
-        print('World')
-
-hw = HelloWorld()
+# class Grandparent:
+#     height = 170
+#     satiety = 100
+#     age = 60
+#
+# class Parent(Grandparent):
+#     age = 40
+#
+# class Child(Parent):
+#     height = 50
+#     age = 1
+#     def __init__(self):
+#         print(f"height = {self.height}")
+#         print(f"age = {self.age}")
+#         print(f"satiety = {self.satiety}")
+#
+# nich = Child()
+#
+#
+# class Hello:
+#     def __init__(self):
+#         print('Hello')
+#
+# class HelloWorld(Hello):
+#     def __init__(self):
+#         super().__init__()
+#         print('World')
+#
+# hw = HelloWorld()
 
 class Computer:
     def calculate(self, model, *args, **kwargs):

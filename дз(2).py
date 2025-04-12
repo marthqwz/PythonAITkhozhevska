@@ -1,5 +1,5 @@
 
-# 9, 16, 27 строки це тіпа мікрофони скбе описують
+
 
 class CoalMicrophone:
     def __init__(self):

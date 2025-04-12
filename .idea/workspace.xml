@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c02df5b-3d26-4721-b699-212e29390dec" name="Changes" comment="lesson 7">
+    <list default="true" id="2c02df5b-3d26-4721-b699-212e29390dec" name="Changes" comment="домашнє">
       <changelist_data name="marthqwz" email="" />
-      <change afterPath="$PROJECT_DIR$/........py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ййййй.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/уцйуцйуй.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/дз(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/уцйуцйуй.py" beforeDir="false" afterPath="$PROJECT_DIR$/уцйуцйуй.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +54,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.........executor": "Run",
+    "Python.567567.executor": "Run",
     "Python.6.executor": "Run",
+    "Python.dddd.executor": "Run",
+    "Python.ppp.executor": "Run",
+    "Python.дз(2).executor": "Run",
     "Python.дз.executor": "Run",
     "Python.ййййй.executor": "Run",
     "Python.уцйуцйуй.executor": "Run",
+    "Python.ььььетанія(3).executor": "Run",
+    "Python.ьььььетанія(8).executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Python/PythonAI_Tkhozhevska",
@@ -113,17 +113,7 @@
     <MESSAGE value="Lesson 4" />
     <MESSAGE value="Homework 2 &gt;_&lt;" />
     <MESSAGE value="lesson 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 7" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$USER_HOME$/Desktop/lesson1.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="домашнє" />
+    <option name="LAST_COMMIT_MESSAGE" value="домашнє" />
   </component>
 </project>
